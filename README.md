@@ -10,4 +10,4 @@ these are completely new lines
 
 even more lines
 
-let'S find taht conflict!
+let's find that conflict!
