@@ -1,5 +1,7 @@
 # test
+
 Repository for testing my Git/GitHub setup
+
 this is another line in the readme
 
 ## and this is another header
@@ -7,3 +9,5 @@ this is another line in the readme
 these are completely new lines
 
 even more lines
+
+let'S find taht conflict!
